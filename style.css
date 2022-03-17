@@ -1,7 +1,9 @@
-#contact iframe
+#contact iframe, .contact_1
 {
-    width: 100%;
+    margin-left: 2%;
+    width: 96%;
 }
+
 .contact_1 h3
 {
     display: inline;
@@ -14,4 +16,8 @@
 input
 {
     background: grey
+}
+img{
+    width: 100%;
+    
 }
